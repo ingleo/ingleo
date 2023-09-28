@@ -5,7 +5,8 @@
 - Personal projects (labs - demos)
 - Courses that I have studied about development <br>
 
-:coffee: All of them related to Javascript-Typescript <br>
+:coffee: All of them related to Javascript-Typescript env<br>
+:computer: Also about AWS cloud <br>
 :rocket: I’m currently learning more about AI <br>
 :smiley: Feel free to use anything if it is useful for you.
 
