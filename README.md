@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, It's Leo :wave:
+
+:arrow_forward: This is my personal repository. <br>
+:pushpin: You can find a set of projects
+- Personal projects (labs - demos)
+- Courses that I have studied about development <br>
+
+:coffee: All of them related to Javascript-Typescript <br>
+:rocket: I’m currently learning more about AI <br>
+:smiley: Feel free to use anything if it is useful for you.
+
 
 <!--
 **ingleo/ingleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
