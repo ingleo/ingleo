@@ -1,7 +1,7 @@
 ### Hi, It's Leo :wave:
 
 :arrow_forward: This is my personal repository. <br>
-:pushpin: You can find a set of projects
+:pushpin: Here, you can find a set of projects
 - Personal projects (labs - demos)
 - Courses that I have studied about development <br>
 
