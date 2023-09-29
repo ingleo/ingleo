@@ -1,6 +1,6 @@
 ### Hi, It's Leo :wave:
 
-:arrow_forward: This is my personal space. <br>
+:arrow_forward: This is my personal github. <br>
 :pushpin: Here, you can find a set of repositories.
 - Personal projects (labs - demos)
 - Courses that I have studied about development <br>
