@@ -3,9 +3,9 @@
 :arrow_forward: This is my personal github. <br>
 :pushpin: Here, you can find a set of repositories.
 - Personal projects (labs - demos)
-- Courses that I have studied about development <br>
+- Courses that I have studied on development <br>
 
-:coffee: All of them related to Javascript-Typescript env<br>
+:coffee: All of them are related to JavaScript-Typescript<br>
 :computer: Also about AWS cloud <br>
 :rocket: I’m currently learning more about AI <br>
 :smiley: Feel free to use anything if it is useful for you.
